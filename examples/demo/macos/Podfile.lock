@@ -1030,7 +1030,7 @@ PODS:
     - React-Core
     - React-cxxreact
     - ReactCommon/turbomodule/core
-  - ReactTestApp-DevSupport (3.8.13):
+  - ReactTestApp-DevSupport (3.9.2):
     - React-Core
     - React-jsi
   - ReactTestApp-Resources (1.0.0-dev)
@@ -1257,7 +1257,7 @@ SPEC CHECKSUMS:
   React-utils: 46cc84b17edde38232668073688b2ed621a3d171
   ReactCommon: 0b6b092708b879557708b378a09729fc29900918
   ReactNativeHost: 02d9df701ce3f7b6560f95315df4bab38b660f58
-  ReactTestApp-DevSupport: 3e70f318cd4976282a93e3648a558294b8251854
+  ReactTestApp-DevSupport: cbe23c1d1999516afa35e9758ef400b6bd3f7046
   ReactTestApp-Resources: 9d83e280b173ba2ee053b8135730dff60f9ab674
   SocketRocket: f6c6249082c011e6de2de60ed641ef8bbe0cfac9
   Yoga: 0981416dc6fbb2dec0c45125877c6f1251e4fc09

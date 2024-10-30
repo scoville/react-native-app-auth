@@ -7,6 +7,9 @@
       "displayName": "ReactNativeAppAuthExample"
     }
   ],
+  "plugins": [
+    "./config-plugin.js"
+  ],
   "resources": {
     "android": [
       "dist/res",
